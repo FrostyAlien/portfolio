@@ -4,6 +4,9 @@ title = 'Xiao Zirui - Yet Another XR Researcher'
 theme = 'hugo-theme-console'
 buildFuture = true
 
+[params.aboutme]
+text = "Hello! I'm an MPhil student in Computer Science and XR Researcher at City University of Hong Kong. I identify as a software engineer, network engineer, tech enthusiast, and an attack helicopter LOL. I'm particularly interested in large-scale mixed reality systems for collaboration, especially remote collaboration."
+
 [params.contact]
 email = "ziruixiao2-c@my.cityu.edu.hk"
 github = "https://github.com/FrostyAlien"
