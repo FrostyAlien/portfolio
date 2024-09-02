@@ -1,16 +1,17 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://alien.bz'
 languageCode = 'en-us'
-title = 'Xiao Zirui - Yet Another XR Researcher'
+title = 'Zirui Xiao - Yet Another XR Researcher'
 theme = 'hugo-theme-console'
 buildFuture = true
 
 [params.aboutme]
-text = "Hello! I'm an MPhil student in Computer Science and XR Researcher at City University of Hong Kong. I identify as a software engineer, network engineer, tech enthusiast, and an attack helicopter LOL. I'm particularly interested in large-scale mixed reality systems for collaboration, especially remote collaboration."
+text = "Hello! I'm an MPhil student in Computer Science and XR Researcher at City University of Hong Kong. I identify as a software engineer, network engineer, tech enthusiast, and an attack helicopter (LOL). I'm particularly interested in large-scale mixed reality systems for collaboration, especially remote collaboration."
 
 [params.contact]
 email = "ziruixiao2-c@my.cityu.edu.hk"
 github = "https://github.com/FrostyAlien"
 linkedin = "https://www.linkedin.com/in/zirui-xiao-403b31303/"
+ORCID = "https://orcid.org/0009-0006-1195-6106"
 # Add any other contact methods you want
 
 [[params.navlinks]]
