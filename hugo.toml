@@ -9,3 +9,15 @@ email = "ziruixiao2-c@my.cityu.edu.hk"
 github = "https://github.com/FrostyAlien"
 linkedin = "https://www.linkedin.com/in/zirui-xiao-403b31303/"
 # Add any other contact methods you want
+
+[[params.navlinks]]
+url = 'papers/'
+name = 'papers/'
+
+[[params.navlinks]]
+url = 'projects/'
+name = 'projects/'
+
+[[params.navlinks]]
+url = '/'
+name = '/root'
