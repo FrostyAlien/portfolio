@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiao Zirui - Yet Another XR Researcher</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Xiao Zirui - Yet Another XR Researcher</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your Paper Title Here</title>
+      <link>http://localhost:1313/papers/exmaple/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/exmaple/</guid>
+      <description>Brief abstract or description of your paper. This content could be used on a detailed papers page.</description>
+    </item>
+  </channel>
+</rss>

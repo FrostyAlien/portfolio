@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Xiao Zirui - Yet Another XR Researcher'
+theme = 'hugo-theme-console'
