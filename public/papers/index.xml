@@ -6,14 +6,28 @@
     <description>Recent content on Xiao Zirui - Yet Another XR Researcher</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Your Paper Title Here</title>
-      <link>http://localhost:1313/papers/exmaple/</link>
-      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/exmaple/</guid>
-      <description>Brief abstract or description of your paper. This content could be used on a detailed papers page.</description>
+      <title>Evaluating the Effect of Interface Types and Immersive Environments on Drawing Accuracy and User Comfort</title>
+      <link>http://localhost:1313/papers/interface_types_and_immersive_environments_on_drawing_accuracy_and_user_comfort/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/interface_types_and_immersive_environments_on_drawing_accuracy_and_user_comfort/</guid>
+      <description>In this research, we investigate the effectiveness of asymmetric interactions (HandStylus, HandController, and TwoHands) in Augmented Reality (AR), Virtual Reality (VR), and Extended Reality (XR) for 3D digital drawing overlaying on physical and virtual objects. We evaluate the input accuracy and fatigue of these object-based 3D drawing experiences using quantitative measurements and further explore the correlation between these outcomes with subjective questionnaires. We found significant independence between environments and interface types, which considerably influence the performance and usability of 3D immersive drawing.</description>
+    </item>
+    <item>
+      <title>Perceived Empathy in Mixed Reality: Assessing the Impact of Empathic Agents&#39; Awareness of User Physiological States</title>
+      <link>http://localhost:1313/papers/perceived_empathy_in_mixed_reality/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/perceived_empathy_in_mixed_reality/</guid>
+      <description>In this research, we investigate the effectiveness of asymmetric interactions (HandStylus, HandController, and TwoHands) in Augmented Reality (AR), Virtual Reality (VR), and Extended Reality (XR) for 3D digital drawing overlaying on physical and virtual objects. We evaluate the input accuracy and fatigue of these object-based 3D drawing experiences using quantitative measurements and further explore the correlation between these outcomes with subjective questionnaires. We found significant independence between environments and interface types, which considerably influence the performance and usability of 3D immersive drawing.</description>
+    </item>
+    <item>
+      <title>The Fusion Nexus: Exploring the Confluence of Virtual and Real Worlds through Biocognitive Audio-Verbal Interface in Immersive XR Environments</title>
+      <link>http://localhost:1313/papers/fusion_nexus/</link>
+      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/fusion_nexus/</guid>
+      <description>In this demo, we present FusionNexus, an asymmetric collaboration experience where a virtual-world player needs to guide a real-world player to make certain actions. A machine learning algorithm was used to do the pose detection of the real-world player. We collect the virtual-world player’s heartbeat to control drum beats in background music played to the real-world player to convey emotional status of the virtual-world player. In this demonstration, two players will collaborate to accomplish a time task.</description>
     </item>
   </channel>
 </rss>

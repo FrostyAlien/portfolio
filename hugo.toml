@@ -2,3 +2,10 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Xiao Zirui - Yet Another XR Researcher'
 theme = 'hugo-theme-console'
+buildFuture = true
+
+[params.contact]
+email = "ziruixiao2-c@my.cityu.edu.hk"
+github = "https://github.com/FrostyAlien"
+linkedin = "https://www.linkedin.com/in/zirui-xiao-403b31303/"
+# Add any other contact methods you want
