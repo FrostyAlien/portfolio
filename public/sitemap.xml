@@ -39,6 +39,12 @@
     
         
         <url>
+            <loc>http://localhost:1313/aboutme/</loc>
+        </url>
+        
+    
+        
+        <url>
             <loc>http://localhost:1313/categories/</loc>
         </url>
         
